@@ -1,2 +1,1 @@
-# practice-branching
-playing around with branches
+Git Branch Practice
